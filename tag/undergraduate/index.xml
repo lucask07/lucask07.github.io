@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>undergraduate | Electrical Instrumentation at UST</title>
+    <link>/tag/undergraduate/</link>
+      <atom:link href="/tag/undergraduate/index.xml" rel="self" type="application/rss+xml" />
+    <description>undergraduate</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_2.png</url>
+      <title>undergraduate</title>
+      <link>/tag/undergraduate/</link>
+    </image>
+    
+    <item>
+      <title>Shawn Catudal</title>
+      <link>/people/shawn_catudal/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/people/shawn_catudal/</guid>
+      <description>&lt;p&gt;Shawn is currently a Junior Electrical Engineering student who grew up in Berlin, Germany.  He is passionate about innovation, robotics, as well as basically any type of new and groundbreaking technology.  He is currently working on the digital open source ion channel amplifier project and is focussing on analog circuit design. When he is not working diligently on this or his academics, Shawn enjoys playing ice hockey and brainstorming startup ideas with his roommates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ian Bonequi Delgadillo</title>
+      <link>/people/ian_bonequi_delgadillo/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/people/ian_bonequi_delgadillo/</guid>
+      <description>&lt;p&gt;Ian is a second-year student at St. Thomas, currently pursuing a degree in Electrical Engineering.  His current responsibility is developing Verilog code for the COVG amplifier project. He is coding modules that will connect to a host computer using the Opal Kelly Front Panel interface, which allow the host computer to control analog to digital and digital to analog converters, through the use of an SPI interface and a Wishbone bus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lexi Serreyn</title>
+      <link>/people/lexi_serreyn/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/people/lexi_serreyn/</guid>
+      <description>&lt;p&gt;Lexi is an Electrical Engineering and Physics double major from East Bethel, MN, graduating in spring of 2022. She is interested in the intersections between Optics and Electrical Engineering, specifically medical imaging solutions. In the research lab she crafted a new slope calculation algorithm to account for various noise types in photodiode readings in a point of care imaging device.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>William Schneider</title>
+      <link>/authors/william_schneider/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/authors/william_schneider/</guid>
+      <description>&lt;p&gt;Will, a sophomore from a small town in central Minnesota, is studying mechanical engineering and researching the electrical properties of conductive filaments for 3D printers. His primary interest is horology, but he also finds 3D printers, RC systems, and high powered rockets interesting. He codes well (even in C++)!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>William Schneider</title>
+      <link>/people/william_schneider/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/people/william_schneider/</guid>
+      <description>&lt;p&gt;Will, a sophomore from a small town in central Minnesota, is studying mechanical engineering and researching the electrical properties of conductive filaments for 3D printers. His primary interest is horology, but he also finds 3D printers, RC systems, and high powered rockets interesting. He codes well (even in C++)!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ian Bonequi Delgadillo</title>
+      <link>/authors/ian_bonequi_delgadillo/</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/authors/ian_bonequi_delgadillo/</guid>
+      <description>&lt;p&gt;Ian is a second-year student at St. Thomas, currently pursuing a degree in Electrical Engineering.  His current responsibility is developing Verilog code for the COVG amplifier project. He is coding modules that will connect to a host computer using the Opal Kelly Front Panel interface, which allow the host computer to control analog to digital and digital to analog converters, through the use of an SPI interface and a Wishbone bus.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
