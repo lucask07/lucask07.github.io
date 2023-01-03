@@ -5,7 +5,7 @@
     <link>/tag/undergraduate/</link>
       <atom:link href="/tag/undergraduate/index.xml" rel="self" type="application/rss+xml" />
     <description>undergraduate</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
       <title>undergraduate</title>
@@ -15,36 +15,27 @@
     <item>
       <title>Abraham Stroschein</title>
       <link>/people/abraham_stroschein/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/people/abraham_stroschein/</guid>
-      <description>&lt;p&gt;Abe is a second-year student at St. Thomas, currently pursuing a degree in Computer Engineering.  His current responsibility is architecting and developing Python code for the COVG amplifier project. Abe is a receipient of a UST Science, Mathematics, and Engineering scholarship.&lt;/p&gt;
+      <description>&lt;p&gt;Abe is a third-year student at St. Thomas pursuing a degree in Computer Engineering.  His current responsibility is architecting and developing Python code for the COVG amplifier project. Abe is a receipient of a UST Science, Mathematics, and Engineering scholarship. Abe is a Python wizard and is the lead author of a Journal of Open Source Software manuscript titled &amp;ldquo;Pyripherals: A Python Package for Communicating with Peripheral Electronic Devices&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Corissa Uberecken</title>
-      <link>/people/corrisa_uberecken/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/people/corrisa_uberecken/</guid>
-      <description>&lt;p&gt;Corissa is a second year student majoring in Computer Engineering with a plan to study abroad. In the research lab during the summer of 2021 she became the group expert on the Texas Instruments ADS8686 ADC and brought up a development board using the part.&lt;/p&gt;
+      <title>Ian Delgadillo Bonequi</title>
+      <link>/people/ian_delgadillo_bonequi/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/people/ian_delgadillo_bonequi/</guid>
+      <description>&lt;p&gt;Ian is a fourth year student at St. Thomas, pursuing a degree in Electrical Engineering. His current responsibility is developing Verilog code and advanced control systems design for the COVG amplifier project. Currently, he is using MATLAB Simulink to create real-time fixed-point state space models that process ADC data to create outgoing data for the DACs. He has developed and tested modules that connect to a host computer using the Opal Kelly Front Panel interface, which allow the host computer to control analog to digital and digital to analog converters, through the use of an SPI interface and a Wishbone bus. As an undergraduate student Ian has published two peer reviewed journal articles!&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Ian Bonequi Delgadillo</title>
-      <link>/people/ian_bonequi_delgadillo/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/people/ian_bonequi_delgadillo/</guid>
-      <description>&lt;p&gt;Ian is a third year student at St. Thomas, pursuing a degree in Electrical Engineering. His current responsibility is developing Verilog code for the COVG amplifier project. Currently, he is using MATLAB to create real-time fixed-point filters that process ADC data to create outgoing data for the DACs. He has developed and tested modules that connect to a host computer using the Opal Kelly Front Panel interface, which allow the host computer to control analog to digital and digital to analog converters, through the use of an SPI interface and a Wishbone bus.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nathan LoPresto</title>
-      <link>/people/nathan_lopresto/</link>
-      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/people/nathan_lopresto/</guid>
-      <description>&lt;p&gt;Nathan is a second year student majoring in Computer Engineering. In the research lab he developed user facing Python code for viewing ADC waveforms and interacting with the COVG DAQ system. He has also been the hands-on teaching assistant for the Introduction to Electrical and Computer Engineering course.&lt;/p&gt;
+      <title>Cienna Becker</title>
+      <link>/people/cienna_becker/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/people/cienna_becker/</guid>
+      <description>&lt;p&gt;Cienna is a third-year student at St. Thomas pursuing a degree in Computer Engineering. During the summer of 2022 she demonstrated successful classification of different types of plastics using a time-of-flight depth sensor (AMS TMF8801) funded by a UROP Young Scholars grant. In the process, she used TensorFlow to create classifiers that worked on input features of the raw histogram measurements as well as optical parameters of the materials as extraacted from the return time histograms. Cienna is active in St. Thomas band and is a ECE department course tutor.&lt;/p&gt;
 </description>
     </item>
     
@@ -63,15 +54,6 @@
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/people/william_schneider/</guid>
       <description>&lt;p&gt;Will, a 3rd year student from a small town in central Minnesota, is studying mechanical engineering and researching the electrical properties of conductive filaments for 3D printers. His primary interest is horology, but he also finds 3D printers, RC systems, and high powered rockets interesting. He codes well (even in C++)!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Jakob Porter</title>
-      <link>/people/jake_porter/</link>
-      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/people/jake_porter/</guid>
-      <description>&lt;p&gt;Jake Porter is a 3rd year undergraduate student majoring in Electrical Engineering. He has contributed to the analog and PCB design aspects of the NIH COVG project. He is diving into switch mode DC/DC converters and analog feedback loops, while also learning KiCAD. In 2021 Jake was an MIAC All-Conference outfielder for the St. Thomas baseball team!&lt;/p&gt;
 </description>
     </item>
     
