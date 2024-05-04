@@ -5,12 +5,39 @@
     <link>/tag/alumni/</link>
       <atom:link href="/tag/alumni/index.xml" rel="self" type="application/rss+xml" />
     <description>alumni</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
       <title>alumni</title>
       <link>/tag/alumni/</link>
     </image>
+    
+    <item>
+      <title>Abraham Stroschein</title>
+      <link>/people/abraham_stroschein/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/people/abraham_stroschein/</guid>
+      <description>&lt;p&gt;Abe is graduating Summa Cum Laude from St. Thomas with majors in Computer Engineering and Physics in the Spring of 2024.  In the research lab, Abe architected and developed Python code for the COVG amplifier project. Abe is a receipient of a UST Science, Mathematics, and Engineering scholarship. Abe is a Python wizard and is the lead author of a Journal of Open Source Software manuscript titled &amp;ldquo;Pyripherals: A Python Package for Communicating with Peripheral Electronic Devices&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ian Delgadillo Bonequi</title>
+      <link>/people/ian_delgadillo_bonequi/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/people/ian_delgadillo_bonequi/</guid>
+      <description>&lt;p&gt;Ian graduated from St. Thomas Summa Cum Laude with a degree in Electrical Engineering and a minor in Physics (Spring 2023). Ian is now an FPGA engineer at General Dynamics. In the lab, he developed Verilog code and advanced control systems design for the COVG amplifier project. He used MATLAB Simulink to create real-time fixed-point state space models that process ADC data to create outgoing data for the DACs. He also developed and tested modules that connect to a host computer using the Opal Kelly Front Panel interface, which allow the host computer to control analog to digital and digital to analog converters, through the use of an SPI interface and a Wishbone bus. As an undergraduate student Ian published two peer reviewed journal articles (with a few more to come)!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cienna Becker</title>
+      <link>/people/cienna_becker/</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/people/cienna_becker/</guid>
+      <description>&lt;p&gt;Cienna is a student at St. Thomas undergraduate graduating in the Spring of 2024 with a degree in Computer Engineering and multiple minors! During the summer of 2022 she demonstrated successful classification of different types of plastics using a time-of-flight depth sensor (AMS TMF8801) funded by a UROP Young Scholars grant. In the process, she used TensorFlow to create classifiers that worked on input features of the raw histogram measurements as well as optical parameters of the materials as extracted from the return time histograms. Cienna is active in St. Thomas band and is a ECE department course tutor.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Jakob Porter</title>
@@ -44,7 +71,16 @@
       <link>/people/nathan_lopresto/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/people/nathan_lopresto/</guid>
-      <description>&lt;p&gt;Nathan is a third-year student majoring in Computer Engineering. In the research lab he developed user facing Python code for viewing ADC waveforms and interacting with the COVG DAQ system. He has also been the hands-on teaching assistant for the Introduction to Electrical and Computer Engineering course. Nathan is continuing his research interests in the group of Dr. Heather Orser.&lt;/p&gt;
+      <description>&lt;p&gt;Nathan is majoring in Computer Engineering and will graduate in the Spring of 2024. In the research lab he developed user facing Python code for viewing ADC waveforms and interacting with the COVG DAQ system. He also was a hands-on teaching assistant for the Introduction to Electrical and Computer Engineering course.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>William Schneider</title>
+      <link>/people/william_schneider/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/people/william_schneider/</guid>
+      <description>&lt;p&gt;Will, a mechanical engineering major (graduated Winter 2023) researched the electrical properties of conductive filaments for 3D printers. His primary interest is horology, but he also finds 3D printers, RC systems, and high powered rockets interesting. He codes well (even in C++)!&lt;/p&gt;
 </description>
     </item>
     

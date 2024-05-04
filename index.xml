@@ -36,7 +36,7 @@
       <link>/people/abraham_stroschein/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/people/abraham_stroschein/</guid>
-      <description>&lt;p&gt;Abe is a third-year student at St. Thomas pursuing a degree in Computer Engineering.  His current responsibility is architecting and developing Python code for the COVG amplifier project. Abe is a receipient of a UST Science, Mathematics, and Engineering scholarship. Abe is a Python wizard and is the lead author of a Journal of Open Source Software manuscript titled &amp;ldquo;Pyripherals: A Python Package for Communicating with Peripheral Electronic Devices&amp;rdquo;.&lt;/p&gt;
+      <description>&lt;p&gt;Abe is graduating Summa Cum Laude from St. Thomas with majors in Computer Engineering and Physics in the Spring of 2024.  In the research lab, Abe architected and developed Python code for the COVG amplifier project. Abe is a receipient of a UST Science, Mathematics, and Engineering scholarship. Abe is a Python wizard and is the lead author of a Journal of Open Source Software manuscript titled &amp;ldquo;Pyripherals: A Python Package for Communicating with Peripheral Electronic Devices&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
     
@@ -45,7 +45,34 @@
       <link>/people/ian_delgadillo_bonequi/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/people/ian_delgadillo_bonequi/</guid>
-      <description>&lt;p&gt;Ian is a fourth year student at St. Thomas, pursuing a degree in Electrical Engineering. His current responsibility is developing Verilog code and advanced control systems design for the COVG amplifier project. Currently, he is using MATLAB Simulink to create real-time fixed-point state space models that process ADC data to create outgoing data for the DACs. He has developed and tested modules that connect to a host computer using the Opal Kelly Front Panel interface, which allow the host computer to control analog to digital and digital to analog converters, through the use of an SPI interface and a Wishbone bus. As an undergraduate student Ian has published two peer reviewed journal articles!&lt;/p&gt;
+      <description>&lt;p&gt;Ian graduated from St. Thomas Summa Cum Laude with a degree in Electrical Engineering and a minor in Physics (Spring 2023). Ian is now an FPGA engineer at General Dynamics. In the lab, he developed Verilog code and advanced control systems design for the COVG amplifier project. He used MATLAB Simulink to create real-time fixed-point state space models that process ADC data to create outgoing data for the DACs. He also developed and tested modules that connect to a host computer using the Opal Kelly Front Panel interface, which allow the host computer to control analog to digital and digital to analog converters, through the use of an SPI interface and a Wishbone bus. As an undergraduate student Ian published two peer reviewed journal articles (with a few more to come)!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jonathan Millam</title>
+      <link>/people/jonathan_millam/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/people/jonathan_millam/</guid>
+      <description>&lt;p&gt;Jon is a St. Thomas Computer Engineering student. In the research lab, Jon has investigated material classfication using time-of-flight transients. Jon loves to code and is the lab PyTorch machine learning expert.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Jordan Haag</title>
+      <link>/people/jordan_haag/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/people/jordan_haag/</guid>
+      <description>&lt;p&gt;Jordan is a UST electrical engineering major and Air Force ROTC student. He loves PCB design and test and has contributed two PCB designs to the COVG amplifier project. He is a recipient of an Air Force graduate program scholarship to continue his electrical engineering studies after UST.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kordt Gammelgaard</title>
+      <link>/people/kordt_gammelgaard/</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>/people/kordt_gammelgaard/</guid>
+      <description>&lt;p&gt;Kordt Gammelgaard is a UST EE major with an interest in physics. In the summer of 2023, Kordt received a UROP Young scholars grant to explore material classification with time-of-flight sensors. He adeptly used his experimental and broad design skills to significantly improve our test setup.&lt;/p&gt;
 </description>
     </item>
     
@@ -54,7 +81,7 @@
       <link>/people/cienna_becker/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/people/cienna_becker/</guid>
-      <description>&lt;p&gt;Cienna is a third-year student at St. Thomas pursuing a degree in Computer Engineering. During the summer of 2022 she demonstrated successful classification of different types of plastics using a time-of-flight depth sensor (AMS TMF8801) funded by a UROP Young Scholars grant. In the process, she used TensorFlow to create classifiers that worked on input features of the raw histogram measurements as well as optical parameters of the materials as extracted from the return time histograms. Cienna is active in St. Thomas band and is a ECE department course tutor.&lt;/p&gt;
+      <description>&lt;p&gt;Cienna is a student at St. Thomas undergraduate graduating in the Spring of 2024 with a degree in Computer Engineering and multiple minors! During the summer of 2022 she demonstrated successful classification of different types of plastics using a time-of-flight depth sensor (AMS TMF8801) funded by a UROP Young Scholars grant. In the process, she used TensorFlow to create classifiers that worked on input features of the raw histogram measurements as well as optical parameters of the materials as extracted from the return time histograms. Cienna is active in St. Thomas band and is a ECE department course tutor.&lt;/p&gt;
 </description>
     </item>
     
@@ -106,7 +133,7 @@
       <link>/people/nathan_lopresto/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/people/nathan_lopresto/</guid>
-      <description>&lt;p&gt;Nathan is a third-year student majoring in Computer Engineering. In the research lab he developed user facing Python code for viewing ADC waveforms and interacting with the COVG DAQ system. He has also been the hands-on teaching assistant for the Introduction to Electrical and Computer Engineering course. Nathan is continuing his research interests in the group of Dr. Heather Orser.&lt;/p&gt;
+      <description>&lt;p&gt;Nathan is majoring in Computer Engineering and will graduate in the Spring of 2024. In the research lab he developed user facing Python code for viewing ADC waveforms and interacting with the COVG DAQ system. He also was a hands-on teaching assistant for the Introduction to Electrical and Computer Engineering course.&lt;/p&gt;
 </description>
     </item>
     
@@ -124,7 +151,7 @@
       <link>/people/william_schneider/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/people/william_schneider/</guid>
-      <description>&lt;p&gt;Will, a 3rd year student from a small town in central Minnesota, is studying mechanical engineering and researching the electrical properties of conductive filaments for 3D printers. His primary interest is horology, but he also finds 3D printers, RC systems, and high powered rockets interesting. He codes well (even in C++)!&lt;/p&gt;
+      <description>&lt;p&gt;Will, a mechanical engineering major (graduated Winter 2023) researched the electrical properties of conductive filaments for 3D printers. His primary interest is horology, but he also finds 3D printers, RC systems, and high powered rockets interesting. He codes well (even in C++)!&lt;/p&gt;
 </description>
     </item>
     
@@ -151,6 +178,15 @@
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/project/tof/</guid>
       <description>&lt;p&gt;Optical time-of-flight (ToF) depth sensors are emerging in consumer electronics and offer powerful opportunities to advance scientific research if adapted to measurement challenges in timing photons. Direct ToF (dToF) sensors pulse a laser and time the light return (with picosecond resolution!) to measure the distance to an object. To what non-conventional scientific measurements could these sensors be applied?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Broadenging undergraduate exposure to microelectronics</title>
+      <link>/project/undergraduate_microelectronics/</link>
+      <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/project/undergraduate_microelectronics/</guid>
+      <description>&lt;p&gt;The undergraduate curriculum only scratches the surface of microelectronics. In the research lab, we are filling this gap by exposing students to CMOS integrated circuits through applications and testing. When students use integrated circuits for measurements, we develop an understanding of the circuit architecture and the performance specifications that the design may have. We are also seeking collaborations with research groups that design and fabricate custom integrated circuits (particularly chips for sensing). Our group can contribute by developing unique applications or through circuit tests.&lt;/p&gt;
 </description>
     </item>
     
