@@ -5,7 +5,7 @@
     <link>/people/</link>
       <atom:link href="/people/index.xml" rel="self" type="application/rss+xml" />
     <description>People</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
       <title>People</title>
@@ -15,9 +15,27 @@
     <item>
       <title>Abraham Stroschein</title>
       <link>/people/abraham_stroschein/</link>
-      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
       <guid>/people/abraham_stroschein/</guid>
-      <description>&lt;p&gt;Abe is graduating Summa Cum Laude from St. Thomas with majors in Computer Engineering and Physics in the Spring of 2024.  In the research lab, Abe architected and developed Python code for the COVG amplifier project. Abe is a receipient of a UST Science, Mathematics, and Engineering scholarship. Abe is a Python wizard and is the lead author of a Journal of Open Source Software manuscript titled &amp;ldquo;Pyripherals: A Python Package for Communicating with Peripheral Electronic Devices&amp;rdquo;.&lt;/p&gt;
+      <description>&lt;p&gt;Abe graduated summa cum laude from St. Thomas in Spring 2024 with dual majors in Computer Engineering and Physics.  In the research lab, Abe designed and developed Python code for the COVG amplifier project. Abe was a receipient of a UST Science, Mathematics, and Engineering scholarship and is a Python wizard. Abe is the lead author of a Journal of Open Source Software manuscript titled &amp;ldquo;Pyripherals: A Python Package for Communicating with Peripheral Electronic Devices&amp;rdquo;. As an undergraduate, he contributed to a total of 3 peer reviewed journal articles!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Seth Lindgren</title>
+      <link>/people/seth_lindgren/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/people/seth_lindgren/</guid>
+      <description>&lt;p&gt;Seth is a St. Thomas Electrical Engineering student with an interest in physics. In the research lab, he has developed a new time-of-flight experimental system which we are using to explore unconventional applications of timing light. In the summer of 2024, Seth was supported by an Undergraduate Research Opportunities Program young scholar&amp;rsquo;s grant.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thomas Gagnon</title>
+      <link>/people/thomas_gagnon/</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/people/thomas_gagnon/</guid>
+      <description>&lt;p&gt;Thomas is a St. Thomas Computer Engineering student who is pursuing a double major in physics. In the research lab, he has been implementing image processing algorithms onto Opal Kelly FPGAs.&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +44,7 @@
       <link>/people/ian_delgadillo_bonequi/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       <guid>/people/ian_delgadillo_bonequi/</guid>
-      <description>&lt;p&gt;Ian graduated from St. Thomas Summa Cum Laude with a degree in Electrical Engineering and a minor in Physics (Spring 2023). Ian is now an FPGA engineer at General Dynamics. In the lab, he developed Verilog code and advanced control systems design for the COVG amplifier project. He used MATLAB Simulink to create real-time fixed-point state space models that process ADC data to create outgoing data for the DACs. He also developed and tested modules that connect to a host computer using the Opal Kelly Front Panel interface, which allow the host computer to control analog to digital and digital to analog converters, through the use of an SPI interface and a Wishbone bus. As an undergraduate student Ian published two peer reviewed journal articles (with a few more to come)!&lt;/p&gt;
+      <description>&lt;p&gt;Ian graduated from St. Thomas summa cum laude with a degree in Electrical Engineering and a minor in Physics (Spring 2023). Ian is now an FPGA engineer at General Dynamics. In the lab, he developed Verilog code and advanced control systems design for the COVG amplifier project. He used MATLAB Simulink to create real-time fixed-point state space models that process ADC data to create outgoing data for the DACs. He also developed and tested modules that connect to a host computer using the Opal Kelly Front Panel interface, which allow the host computer to control analog to digital and digital to analog converters, through the use of an SPI interface and a Wishbone bus. As an undergraduate, Ian contributed to a total of 3 peer reviewed journal articles!&lt;/p&gt;
 </description>
     </item>
     
