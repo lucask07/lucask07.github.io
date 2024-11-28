@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electrical Instrumentation at UST</title>
-    <link>//localhost:60442/</link>
-      <atom:link href="//localhost:60442/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/</link>
+      <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Electrical Instrumentation at UST</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:60442/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
       <title>Electrical Instrumentation at UST</title>
-      <link>//localhost:60442/</link>
+      <link>//localhost:1313/</link>
     </image>
     
     <item>
       <title>Electrical Instrumentation at UST</title>
-      <link>//localhost:60442/hero/hero/</link>
+      <link>//localhost:1313/hero/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/hero/hero/</guid>
+      <guid>//localhost:1313/hero/hero/</guid>
       <description>&lt;p&gt;A research group that develops electrical instrumentation for challenges in detection within the Electrical Engineering department at the University of St. Thomas.
 &lt;br&gt;&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>A Digital and Open-Source Amplifier for Oocyte Ion Channel Measurements</title>
-      <link>//localhost:60442/project/covg/</link>
+      <link>//localhost:1313/project/covg/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/project/covg/</guid>
+      <guid>//localhost:1313/project/covg/</guid>
       <description>&lt;p&gt;Ion channels and transporters are critical components of the nervous system, and their electrophysiological characterization plays an essential part in understanding many neurological diseases. Voltage clamp techniques characterize ion channel electrical behavior by controlling membrane voltage while measuring membrane current. Cut-Open Vaseline Gap (COVG) is a specific voltage clamp technique that provides a unique combination of high-speed/low-noise needed to resolve fast protein dynamics and the rare ability to control both intra- and extra- cellular solutions. However, the COVG technique is regarded as challenging in part because the only commercial ampliﬁer is manually operated and requires considerable experience and skill. Further, this commercial amplifier is no longer supported. The COVG user community needs an easy-to-use, high-performance replacement that also makes the technique accessible to more laboratories. In this proposal, we will design, build, and test a new COVG amplifier that leverages modern digital electronics. This digital amplifier will use an innovative approach to automate experiment setup and to continuously adapt setup parameters during the experiment. These approaches will decrease the time required for experiments and maintain optimal feedback as system parameters evolve. The amplifier will have multiple inputs and outputs that are controlled and read digitally. These multiple signals will be used in digital signal processing and control systems algorithms to improve the speed of the ion channel voltage control and allow the experimenter to resolve faster dynamics. The modular ampliﬁer design will create general-use circuit building blocks with digital control systems for feed- back. These components can be leveraged by the electrophysiology community to extend this development to applications beyond COVG. This project will challenge students with instrumentation development that uses and develops skills in:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Circuit design and simulations&lt;/li&gt;
@@ -41,204 +41,204 @@
     
     <item>
       <title>Abraham Stroschein</title>
-      <link>//localhost:60442/people/abraham_stroschein/</link>
+      <link>//localhost:1313/people/abraham_stroschein/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/abraham_stroschein/</guid>
+      <guid>//localhost:1313/people/abraham_stroschein/</guid>
       <description>&lt;p&gt;Abe graduated summa cum laude from St. Thomas in Spring 2024 with dual majors in Computer Engineering and Physics.  In the research lab, Abe designed and developed Python code for the COVG amplifier project. Abe was a receipient of a UST Science, Mathematics, and Engineering scholarship and is a Python wizard. Abe is the lead author of a Journal of Open Source Software manuscript titled &amp;ldquo;Pyripherals: A Python Package for Communicating with Peripheral Electronic Devices&amp;rdquo;. As an undergraduate, he contributed to a total of 3 peer reviewed journal articles!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Applications of Miniaturized Time-of-Flight Depth Sensors</title>
-      <link>//localhost:60442/project/tof/</link>
+      <link>//localhost:1313/project/tof/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/project/tof/</guid>
+      <guid>//localhost:1313/project/tof/</guid>
       <description>&lt;p&gt;Optical time-of-flight (ToF) depth sensors are emerging in consumer electronics and offer powerful opportunities to advance scientific research if adapted to measurement challenges in timing photons. Direct ToF (dToF) sensors pulse a laser and time the light return (with picosecond resolution!) to measure the distance to an object. To what non-conventional scientific measurements could these sensors be applied?&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Broadening undergraduate exposure to microelectronics</title>
-      <link>//localhost:60442/project/undergraduate_microelectronics/</link>
+      <link>//localhost:1313/project/undergraduate_microelectronics/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/project/undergraduate_microelectronics/</guid>
+      <guid>//localhost:1313/project/undergraduate_microelectronics/</guid>
       <description>&lt;p&gt;The undergraduate curriculum only scratches the surface of microelectronics. In the research lab, we are filling this gap by exposing students to CMOS integrated circuits through applications and testing. When students use integrated circuits for measurements, we develop an understanding of the circuit architecture and the performance specifications that the design may have. We are also seeking collaborations with research groups that design and fabricate custom integrated circuits (particularly for sensing). Our group contributes by developing unique applications or through circuit tests. Partially supported by SCALE.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Development of a digital amplifier system for cut-open oocyte electrophysiology</title>
-      <link>//localhost:60442/publication/koerner_2024/</link>
+      <link>//localhost:1313/publication/koerner_2024/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner_2024/</guid>
+      <guid>//localhost:1313/publication/koerner_2024/</guid>
       <description>&lt;p&gt;Koerner, Lucas J., Ian Delgadillo Bonequi, Ian SK Shogren, Abraham Stroschein, Jordan Haag, and Linda M. Boland. &amp;ldquo;Development of a digital amplifier system for cut-open oocyte electrophysiology.&amp;rdquo; Biophysical reports 4, no. 4 (2024).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Photon Inhibition for Energy-Efficient Single-Photon Imaging (oral presentation)</title>
-      <link>//localhost:60442/publication/koerner_2024b/</link>
+      <link>//localhost:1313/publication/koerner_2024b/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner_2024b/</guid>
+      <guid>//localhost:1313/publication/koerner_2024b/</guid>
       <description>&lt;p&gt;Koerner, Lucas J., Shantanu Gupta, Atul Ingle, and Mohit Gupta. &amp;ldquo;Photon Inhibition for Energy-Efficient Single-Photon Imaging.&amp;rdquo; In European Conference on Computer Vision, pp. 90-107. Springer, Cham, 2024.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Seth Lindgren</title>
-      <link>//localhost:60442/people/seth_lindgren/</link>
+      <link>//localhost:1313/people/seth_lindgren/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/seth_lindgren/</guid>
+      <guid>//localhost:1313/people/seth_lindgren/</guid>
       <description>&lt;p&gt;Seth is a St. Thomas Electrical Engineering student with an interest in physics. In the research lab, he has developed a new time-of-flight experimental system which we are using to explore unconventional applications of timing light. In the summer of 2024, Seth was supported by an Undergraduate Research Opportunities Program young scholar&amp;rsquo;s grant.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Thomas Gagnon</title>
-      <link>//localhost:60442/people/thomas_gagnon/</link>
+      <link>//localhost:1313/people/thomas_gagnon/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/thomas_gagnon/</guid>
+      <guid>//localhost:1313/people/thomas_gagnon/</guid>
       <description>&lt;p&gt;Thomas is a St. Thomas Computer Engineering student who is pursuing a double major in physics. In the research lab, he has been implementing image processing algorithms onto Opal Kelly FPGAs.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Plastic Classification Using Optical Parameter Features Measured with the TMF8801 Direct Time-of-Flight Depth Sensor</title>
-      <link>//localhost:60442/publication/becker_2023/</link>
+      <link>//localhost:1313/publication/becker_2023/</link>
       <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/becker_2023/</guid>
+      <guid>//localhost:1313/publication/becker_2023/</guid>
       <description>&lt;p&gt;Becker, Cienna N., and Lucas J. Koerner. 2023. &amp;ldquo;Plastic Classification Using Optical Parameter Features Measured with the TMF8801 Direct Time-of-Flight Depth Sensor&amp;rdquo; Sensors 23, no. 6: 3324. &lt;a href=&#34;https://doi.org/10.3390/s23063324&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://doi.org/10.3390/s23063324&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ian Delgadillo Bonequi</title>
-      <link>//localhost:60442/people/ian_delgadillo_bonequi/</link>
+      <link>//localhost:1313/people/ian_delgadillo_bonequi/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/ian_delgadillo_bonequi/</guid>
+      <guid>//localhost:1313/people/ian_delgadillo_bonequi/</guid>
       <description>&lt;p&gt;Ian graduated from St. Thomas summa cum laude with a degree in Electrical Engineering and a minor in Physics (Spring 2023). Ian is now an FPGA engineer at General Dynamics. In the lab, he developed Verilog code and advanced control systems design for the COVG amplifier project. He used MATLAB Simulink to create real-time fixed-point state space models that process ADC data to create outgoing data for the DACs. He also developed and tested modules that connect to a host computer using the Opal Kelly Front Panel interface, which allow the host computer to control analog to digital and digital to analog converters, through the use of an SPI interface and a Wishbone bus. As an undergraduate, Ian contributed to a total of 3 peer reviewed journal articles!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jonathan Millam</title>
-      <link>//localhost:60442/people/jonathan_millam/</link>
+      <link>//localhost:1313/people/jonathan_millam/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/jonathan_millam/</guid>
+      <guid>//localhost:1313/people/jonathan_millam/</guid>
       <description>&lt;p&gt;Jon is a St. Thomas Computer Engineering student. In the research lab, Jon has investigated material classfication using time-of-flight transients. Jon loves to code and is the lab PyTorch machine learning expert.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jordan Haag</title>
-      <link>//localhost:60442/people/jordan_haag/</link>
+      <link>//localhost:1313/people/jordan_haag/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/jordan_haag/</guid>
+      <guid>//localhost:1313/people/jordan_haag/</guid>
       <description>&lt;p&gt;Jordan is a UST electrical engineering major and Air Force ROTC student. He loves PCB design and test and has contributed two PCB designs to the COVG amplifier project. He is a recipient of an Air Force graduate program scholarship to continue his electrical engineering studies after UST.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kordt Gammelgaard</title>
-      <link>//localhost:60442/people/kordt_gammelgaard/</link>
+      <link>//localhost:1313/people/kordt_gammelgaard/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/kordt_gammelgaard/</guid>
+      <guid>//localhost:1313/people/kordt_gammelgaard/</guid>
       <description>&lt;p&gt;Kordt Gammelgaard is a UST EE major with an interest in physics. In the summer of 2023, Kordt received a UROP Young scholars grant to explore material classification with time-of-flight sensors. He adeptly used his experimental and broad design skills to significantly improve our test setup.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cienna Becker</title>
-      <link>//localhost:60442/people/cienna_becker/</link>
+      <link>//localhost:1313/people/cienna_becker/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/cienna_becker/</guid>
+      <guid>//localhost:1313/people/cienna_becker/</guid>
       <description>&lt;p&gt;Cienna is a student at St. Thomas undergraduate graduating in the Spring of 2024 with a degree in Computer Engineering and multiple minors! During the summer of 2022 she demonstrated successful classification of different types of plastics using a time-of-flight depth sensor (AMS TMF8801) funded by a UROP Young Scholars grant. In the process, she used TensorFlow to create classifiers that worked on input features of the raw histogram measurements as well as optical parameters of the materials as extracted from the return time histograms. Cienna is active in St. Thomas band and is a ECE department course tutor.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A field-programmable gate array (FPGA)-based data acquisition system for closed-loop experiments</title>
-      <link>//localhost:60442/publication/bonequi_2022/</link>
+      <link>//localhost:1313/publication/bonequi_2022/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/bonequi_2022/</guid>
+      <guid>//localhost:1313/publication/bonequi_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Python Package for Communicating with Peripheral Electronic Devices</title>
-      <link>//localhost:60442/publication/stroschein_2022/</link>
+      <link>//localhost:1313/publication/stroschein_2022/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/stroschein_2022/</guid>
+      <guid>//localhost:1313/publication/stroschein_2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jakob Porter</title>
-      <link>//localhost:60442/people/jake_porter/</link>
+      <link>//localhost:1313/people/jake_porter/</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/jake_porter/</guid>
+      <guid>//localhost:1313/people/jake_porter/</guid>
       <description>&lt;p&gt;Jake Porter is a senior undergraduate student majoring in Electrical Engineering. He contributed to the analog and PCB design aspects of the NIH COVG project. He is diving into switch mode DC/DC converters and analog feedback loops, while also learning KiCAD. In 2021 Jake was an MIAC All-Conference outfielder for the St. Thomas baseball team!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Corissa Uberecken</title>
-      <link>//localhost:60442/people/corrisa_uberecken/</link>
+      <link>//localhost:1313/people/corrisa_uberecken/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/corrisa_uberecken/</guid>
+      <guid>//localhost:1313/people/corrisa_uberecken/</guid>
       <description>&lt;p&gt;Corissa is a fourth-year student majoring in Computer Engineering (graduating Spring 2024) who completed a term studying abroad in Australia. In the research lab during the summer of 2021 she became the group expert on the Texas Instruments ADS8686 ADC and brought up a development board using the part.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lexi Serreyn</title>
-      <link>//localhost:60442/people/lexi_serreyn/</link>
+      <link>//localhost:1313/people/lexi_serreyn/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/lexi_serreyn/</guid>
+      <guid>//localhost:1313/people/lexi_serreyn/</guid>
       <description>&lt;p&gt;Lexi graduated in the Spring of 2022 with Electrical Engineering and Physics double majors at moved on to an R&amp;amp;D position at Medtronic. At UST she performed research at the intersection of Optics and Electrical Engineering, specifically medical imaging solutions. In the research lab she crafted a new slope calculation algorithm to account for various noise types in photodiode readings in a point of care imaging device.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Nathan LoPresto</title>
-      <link>//localhost:60442/people/nathan_lopresto/</link>
+      <link>//localhost:1313/people/nathan_lopresto/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/nathan_lopresto/</guid>
+      <guid>//localhost:1313/people/nathan_lopresto/</guid>
       <description>&lt;p&gt;Nathan is majoring in Computer Engineering and will graduate in the Spring of 2024. In the research lab he developed user facing Python code for viewing ADC waveforms and interacting with the COVG DAQ system. He also was a hands-on teaching assistant for the Introduction to Electrical and Computer Engineering course.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>William Schneider</title>
-      <link>//localhost:60442/people/william_schneider/</link>
+      <link>//localhost:1313/people/william_schneider/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/william_schneider/</guid>
+      <guid>//localhost:1313/people/william_schneider/</guid>
       <description>&lt;p&gt;Will, a mechanical engineering major (graduated Winter 2023) researched the electrical properties of conductive filaments for 3D printers. His primary interest is horology, but he also finds 3D printers, RC systems, and high powered rockets interesting. He codes well (even in C++)!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Conductive 3D printing</title>
-      <link>//localhost:60442/project/conductive_3d_printing/</link>
+      <link>//localhost:1313/project/conductive_3d_printing/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/project/conductive_3d_printing/</guid>
+      <guid>//localhost:1313/project/conductive_3d_printing/</guid>
       <description>&lt;p&gt;The bulk electrical resistance of 3D parts printed using conductive filament has a complex dependence on the printing parameters, filament properties, and sample design. We are working to characterize the resistance of fundamental building blocks and develop software tools to predict bulk electrical properties from the CAD design. Ultimately, electrically conductive 3D printed parts with electrical properties that can be predicted during design will benefit the field of flexible sensors.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Models of Direct Time-of-Flight Sensor Precision That Enable Optimal Design and Dynamic Configuration</title>
-      <link>//localhost:60442/publication/koerner2021/</link>
+      <link>//localhost:1313/publication/koerner2021/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner2021/</guid>
+      <guid>//localhost:1313/publication/koerner2021/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>//localhost:60442/post/getting-started/</link>
+      <link>//localhost:1313/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/post/getting-started/</guid>
+      <guid>//localhost:1313/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -330,60 +330,60 @@
     
     <item>
       <title>An Integrated I2C Sensor Network for Transcatheter Heart Valves</title>
-      <link>//localhost:60442/publication/secord_2020/</link>
+      <link>//localhost:1313/publication/secord_2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/secord_2020/</guid>
+      <guid>//localhost:1313/publication/secord_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of a Miniaturized IR Depth Sensor With a Programmable Region-of-Interest That Enables Hazard Mapping Applications</title>
-      <link>//localhost:60442/publication/jans_2020/</link>
+      <link>//localhost:1313/publication/jans_2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/jans_2020/</guid>
+      <guid>//localhost:1313/publication/jans_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conductive 3D printing: resistivity dependence upon infill pattern and application to EMI shielding</title>
-      <link>//localhost:60442/publication/truman_2020/</link>
+      <link>//localhost:1313/publication/truman_2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/truman_2020/</guid>
+      <guid>//localhost:1313/publication/truman_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matthew Schewe</title>
-      <link>//localhost:60442/people/matthew_schewe/</link>
+      <link>//localhost:1313/people/matthew_schewe/</link>
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/matthew_schewe/</guid>
+      <guid>//localhost:1313/people/matthew_schewe/</guid>
       <description>&lt;p&gt;Matthew was a UST Electrical Engineering Major who graduated in the Spring of 2020. He worked on electronics for a new ion-channel amplifier. He is a multisim expert and finished an entire PCB design cycle in the summer of 2019.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mohamed Abdalla</title>
-      <link>//localhost:60442/people/mohamed_abdalla/</link>
+      <link>//localhost:1313/people/mohamed_abdalla/</link>
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/mohamed_abdalla/</guid>
+      <guid>//localhost:1313/people/mohamed_abdalla/</guid>
       <description>&lt;p&gt;Mohamed is a UST Master&amp;rsquo;s student in the graduate programs in software. He is working on an independent study project to develop inexpensive methods to calibrate and evaluate accelerometers and gyroscopes (IMUs).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ryan Jans</title>
-      <link>//localhost:60442/people/ryan_jans/</link>
+      <link>//localhost:1313/people/ryan_jans/</link>
       <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/ryan_jans/</guid>
+      <guid>//localhost:1313/people/ryan_jans/</guid>
       <description>&lt;p&gt;Ryan graduated from UST with an Electrical Engineering Major in the spring of 2020. He did excellent work on optical time-of-flight depth sensors and was the first undergraduate to be the first author on a reviewed journal paper in our lab &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8982043&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Characterization of a Miniaturized IR Depth Sensor With a Programmable Region-of-Interest That Enables Hazard Mapping Applications&lt;/a&gt;. He also worked on an industry linked RF communications project. Ryan is now a graduate student at the Air Force Institute of Technology in Ohio.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>//localhost:60442/slides/example/</link>
+      <link>//localhost:1313/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/slides/example/</guid>
+      <guid>//localhost:1313/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -510,58 +510,58 @@ $$&lt;/p&gt;
     
     <item>
       <title>A Python Instrument Control and Data Acquisition Suite for Reproducible Research</title>
-      <link>//localhost:60442/publication/koerner_2019b/</link>
+      <link>//localhost:1313/publication/koerner_2019b/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner_2019b/</guid>
+      <guid>//localhost:1313/publication/koerner_2019b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Embedded Electrical Impedance Analyzer Based on the AD5933 for the Determination of Voice Coil Motor Mechanical Properties</title>
-      <link>//localhost:60442/publication/koerner_2019c/</link>
+      <link>//localhost:1313/publication/koerner_2019c/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner_2019c/</guid>
+      <guid>//localhost:1313/publication/koerner_2019c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of LED Temperature Dependence and Power-Efficient LED Modulation Methods for Use in Fluorescence Absorption Spectroscopy</title>
-      <link>//localhost:60442/publication/kuplic_2019/</link>
+      <link>//localhost:1313/publication/kuplic_2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/kuplic_2019/</guid>
+      <guid>//localhost:1313/publication/kuplic_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controlling the EMI Shielding Properties of Conductive Fused Deposition Modeling Material</title>
-      <link>//localhost:60442/publication/truman_2019/</link>
+      <link>//localhost:1313/publication/truman_2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/truman_2019/</guid>
+      <guid>//localhost:1313/publication/truman_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instrbuilder: A Python package for electrical instrument control</title>
-      <link>//localhost:60442/publication/koerner_2019/</link>
+      <link>//localhost:1313/publication/koerner_2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner_2019/</guid>
+      <guid>//localhost:1313/publication/koerner_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phillip Kuplic</title>
-      <link>//localhost:60442/people/phillip_kuplic/</link>
+      <link>//localhost:1313/people/phillip_kuplic/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/phillip_kuplic/</guid>
+      <guid>//localhost:1313/people/phillip_kuplic/</guid>
       <description>&lt;p&gt;Phil is a UST Mechanical Engineering Major who graduated in the Spring of 2020. He constructed an apparatus for characterizing LED illumination systems for microscope and spectrophotometer applications. He presented his work on LED characterization at the APS March meeting in Boston in 2019.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Savannah Johnson</title>
-      <link>//localhost:60442/people/savannah_johnson/</link>
+      <link>//localhost:1313/people/savannah_johnson/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/savannah_johnson/</guid>
+      <guid>//localhost:1313/people/savannah_johnson/</guid>
       <description>&lt;p&gt;Savannah graduated in the Spring of 2020 with a major in Mechanical Engineering and minors in Electrical Engineering and Aerospace Studies. Along the way she won &lt;a href=&#34;https://news.stthomas.edu/rotc-cadet-savannah-johnson-receives-three-national-awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3 national awards as a ROTC cadet&lt;/a&gt;
 She is curious about the real-world applications of physics and mathematics. Electronics, control systems, automation, and transportation systems spark her interest.&lt;/p&gt;
 </description>
@@ -569,211 +569,211 @@ She is curious about the real-world applications of physics and mathematics. Ele
     
     <item>
       <title>Autonomous low-power voice coil motor parking</title>
-      <link>//localhost:60442/publication/koerner_2018b/</link>
+      <link>//localhost:1313/publication/koerner_2018b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner_2018b/</guid>
+      <guid>//localhost:1313/publication/koerner_2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electromagnetic Interference Shielding by Fused Deposition Modeling</title>
-      <link>//localhost:60442/publication/whitwam_2018/</link>
+      <link>//localhost:1313/publication/whitwam_2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/whitwam_2018/</guid>
+      <guid>//localhost:1313/publication/whitwam_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiple Sampling Photodiode Readout That Overcomes ADC Resolution Limit</title>
-      <link>//localhost:60442/publication/koerner_2018/</link>
+      <link>//localhost:1313/publication/koerner_2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner_2018/</guid>
+      <guid>//localhost:1313/publication/koerner_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lucas Manke</title>
-      <link>//localhost:60442/people/lucas_manke/</link>
+      <link>//localhost:1313/people/lucas_manke/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/lucas_manke/</guid>
+      <guid>//localhost:1313/people/lucas_manke/</guid>
       <description>&lt;p&gt;Lucas graduated in the Spring of 2020 and was a senior majoring in Mechanical Engineering and pursuing minors in Business Administration and Military Science.  He was a member of the varsity swim team at UST and a cadet in Army ROTC at the University of Minnesota.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Xiaokang Li</title>
-      <link>//localhost:60442/people/xiaokang_li/</link>
+      <link>//localhost:1313/people/xiaokang_li/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/people/xiaokang_li/</guid>
+      <guid>//localhost:1313/people/xiaokang_li/</guid>
       <description>&lt;p&gt;Xiaokang completed an electrical engineering Master&amp;rsquo;s degree at the University of St. Thomas.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Current recycling voice-coil-motor (VCM) driver circuit</title>
-      <link>//localhost:60442/publication/koerner_2017/</link>
+      <link>//localhost:1313/publication/koerner_2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner_2017/</guid>
+      <guid>//localhost:1313/publication/koerner_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-resolution protein structure determination by serial femtosecond crystallography</title>
-      <link>//localhost:60442/publication/boutet2012high/</link>
+      <link>//localhost:1313/publication/boutet2012high/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/boutet2012high/</guid>
+      <guid>//localhost:1313/publication/boutet2012high/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-speed in situ X-ray scattering of carbon nanotube film nucleation and self-organization</title>
-      <link>//localhost:60442/publication/meshot2012high/</link>
+      <link>//localhost:1313/publication/meshot2012high/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/meshot2012high/</guid>
+      <guid>//localhost:1313/publication/meshot2012high/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fast X-ray microdiffraction techniques for studying irreversible transformations in materials</title>
-      <link>//localhost:60442/publication/kelly2011fast/</link>
+      <link>//localhost:1313/publication/kelly2011fast/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/kelly2011fast/</guid>
+      <guid>//localhost:1313/publication/kelly2011fast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pixel array detector for X-ray free electron laser experiments</title>
-      <link>//localhost:60442/publication/philipp2011pixel/</link>
+      <link>//localhost:1313/publication/philipp2011pixel/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/philipp2011pixel/</guid>
+      <guid>//localhost:1313/publication/philipp2011pixel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Small-angle solution scattering using the mixed-mode pixel array detector</title>
-      <link>//localhost:60442/publication/koerner2011small/</link>
+      <link>//localhost:1313/publication/koerner2011small/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner2011small/</guid>
+      <guid>//localhost:1313/publication/koerner2011small/</guid>
       <description></description>
     </item>
     
     <item>
       <title>X-ray analog pixel array detector for single synchrotron bunch time-resolved imaging</title>
-      <link>//localhost:60442/publication/koerner2011x/</link>
+      <link>//localhost:1313/publication/koerner2011x/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner2011x/</guid>
+      <guid>//localhost:1313/publication/koerner2011x/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Femtosecond radiation experiment detector for x-ray free-electron laser (XFEL) coherent x-ray imaging</title>
-      <link>//localhost:60442/publication/philipp2010femtosecond/</link>
+      <link>//localhost:1313/publication/philipp2010femtosecond/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/philipp2010femtosecond/</guid>
+      <guid>//localhost:1313/publication/philipp2010femtosecond/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Time-resolved x-ray microdiffraction studies of phase transformations during rapidly propagating reactions in Al/Ni and Zr/Ni multilayer foils</title>
-      <link>//localhost:60442/publication/trenkle2010time/</link>
+      <link>//localhost:1313/publication/trenkle2010time/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/trenkle2010time/</guid>
+      <guid>//localhost:1313/publication/trenkle2010time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A quantum-limited CMOS-sensor-based high-speed imaging system for time-resolved x-ray scattering</title>
-      <link>//localhost:60442/publication/rodricks2009quantum/</link>
+      <link>//localhost:1313/publication/rodricks2009quantum/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/rodricks2009quantum/</guid>
+      <guid>//localhost:1313/publication/rodricks2009quantum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An accumulating pixel array detector for single-bunch synchrotron experiments</title>
-      <link>//localhost:60442/publication/koerner2009accumulating/</link>
+      <link>//localhost:1313/publication/koerner2009accumulating/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner2009accumulating/</guid>
+      <guid>//localhost:1313/publication/koerner2009accumulating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>X-ray tests of a pixel array detector for coherent x-ray imaging at the Linac Coherent Light Source</title>
-      <link>//localhost:60442/publication/koerner2009x/</link>
+      <link>//localhost:1313/publication/koerner2009x/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner2009x/</guid>
+      <guid>//localhost:1313/publication/koerner2009x/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Phase transformations during rapid heating of {Al/Ni} multilayer foils</title>
-      <link>//localhost:60442/publication/trenkle2008phase/</link>
+      <link>//localhost:1313/publication/trenkle2008phase/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/trenkle2008phase/</guid>
+      <guid>//localhost:1313/publication/trenkle2008phase/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data acquisition and control for the LCLS pixel array detector</title>
-      <link>//localhost:60442/publication/hromalik2007data/</link>
+      <link>//localhost:1313/publication/hromalik2007data/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/hromalik2007data/</guid>
+      <guid>//localhost:1313/publication/hromalik2007data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First results from the 128x128 pixel mixed-mode Si x-ray detector chip</title>
-      <link>//localhost:60442/publication/vernon2007first/</link>
+      <link>//localhost:1313/publication/vernon2007first/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/vernon2007first/</guid>
+      <guid>//localhost:1313/publication/vernon2007first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pixel array detector for the capture of femtosecond duration x-ray images</title>
-      <link>//localhost:60442/publication/philipp2007pixel/</link>
+      <link>//localhost:1313/publication/philipp2007pixel/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/philipp2007pixel/</guid>
+      <guid>//localhost:1313/publication/philipp2007pixel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pixel array detector for the capture of femtosecond duration x-ray images [6703-22]</title>
-      <link>//localhost:60442/publication/philipp2007/</link>
+      <link>//localhost:1313/publication/philipp2007/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/philipp2007/</guid>
+      <guid>//localhost:1313/publication/philipp2007/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantitative Characterization of Near-Field Fuel Sprays by Multi-Orifice Direct Injection Using Ultrafast X-Tomography Technique</title>
-      <link>//localhost:60442/publication/liu20072006/</link>
+      <link>//localhost:1313/publication/liu20072006/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/liu20072006/</guid>
+      <guid>//localhost:1313/publication/liu20072006/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In-situ xray diffraction of phase transformations in nanostructured reactive multilayer foils</title>
-      <link>//localhost:60442/publication/trenkle2006situ/</link>
+      <link>//localhost:1313/publication/trenkle2006situ/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/trenkle2006situ/</guid>
+      <guid>//localhost:1313/publication/trenkle2006situ/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantitative characterization of near-field fuel sprays by multi-orifice direct injection using ultrafast x-tomography technique</title>
-      <link>//localhost:60442/publication/liu2006quantitative/</link>
+      <link>//localhost:1313/publication/liu2006quantitative/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/liu2006quantitative/</guid>
+      <guid>//localhost:1313/publication/liu2006quantitative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Near-field characterization of direct injection gasoline sprays from multi-hole injector using ultrafast x-tomography</title>
-      <link>//localhost:60442/publication/liu2005near/</link>
+      <link>//localhost:1313/publication/liu2005near/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/liu2005near/</guid>
+      <guid>//localhost:1313/publication/liu2005near/</guid>
       <description></description>
     </item>
     

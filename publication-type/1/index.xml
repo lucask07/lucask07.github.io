@@ -2,125 +2,125 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Electrical Instrumentation at UST</title>
-    <link>//localhost:60442/publication-type/1/</link>
-      <atom:link href="//localhost:60442/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/publication-type/1/</link>
+      <atom:link href="//localhost:1313/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:60442/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>//localhost:60442/publication-type/1/</link>
+      <link>//localhost:1313/publication-type/1/</link>
     </image>
     
     <item>
       <title>An Integrated I2C Sensor Network for Transcatheter Heart Valves</title>
-      <link>//localhost:60442/publication/secord_2020/</link>
+      <link>//localhost:1313/publication/secord_2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/secord_2020/</guid>
+      <guid>//localhost:1313/publication/secord_2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of LED Temperature Dependence and Power-Efficient LED Modulation Methods for Use in Fluorescence Absorption Spectroscopy</title>
-      <link>//localhost:60442/publication/kuplic_2019/</link>
+      <link>//localhost:1313/publication/kuplic_2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/kuplic_2019/</guid>
+      <guid>//localhost:1313/publication/kuplic_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controlling the EMI Shielding Properties of Conductive Fused Deposition Modeling Material</title>
-      <link>//localhost:60442/publication/truman_2019/</link>
+      <link>//localhost:1313/publication/truman_2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/truman_2019/</guid>
+      <guid>//localhost:1313/publication/truman_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autonomous low-power voice coil motor parking</title>
-      <link>//localhost:60442/publication/koerner_2018b/</link>
+      <link>//localhost:1313/publication/koerner_2018b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner_2018b/</guid>
+      <guid>//localhost:1313/publication/koerner_2018b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Electromagnetic Interference Shielding by Fused Deposition Modeling</title>
-      <link>//localhost:60442/publication/whitwam_2018/</link>
+      <link>//localhost:1313/publication/whitwam_2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/whitwam_2018/</guid>
+      <guid>//localhost:1313/publication/whitwam_2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Current recycling voice-coil-motor (VCM) driver circuit</title>
-      <link>//localhost:60442/publication/koerner_2017/</link>
+      <link>//localhost:1313/publication/koerner_2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/koerner_2017/</guid>
+      <guid>//localhost:1313/publication/koerner_2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A quantum-limited CMOS-sensor-based high-speed imaging system for time-resolved x-ray scattering</title>
-      <link>//localhost:60442/publication/rodricks2009quantum/</link>
+      <link>//localhost:1313/publication/rodricks2009quantum/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/rodricks2009quantum/</guid>
+      <guid>//localhost:1313/publication/rodricks2009quantum/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data acquisition and control for the LCLS pixel array detector</title>
-      <link>//localhost:60442/publication/hromalik2007data/</link>
+      <link>//localhost:1313/publication/hromalik2007data/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/hromalik2007data/</guid>
+      <guid>//localhost:1313/publication/hromalik2007data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First results from the 128x128 pixel mixed-mode Si x-ray detector chip</title>
-      <link>//localhost:60442/publication/vernon2007first/</link>
+      <link>//localhost:1313/publication/vernon2007first/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/vernon2007first/</guid>
+      <guid>//localhost:1313/publication/vernon2007first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pixel array detector for the capture of femtosecond duration x-ray images</title>
-      <link>//localhost:60442/publication/philipp2007pixel/</link>
+      <link>//localhost:1313/publication/philipp2007pixel/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/philipp2007pixel/</guid>
+      <guid>//localhost:1313/publication/philipp2007pixel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pixel array detector for the capture of femtosecond duration x-ray images [6703-22]</title>
-      <link>//localhost:60442/publication/philipp2007/</link>
+      <link>//localhost:1313/publication/philipp2007/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/philipp2007/</guid>
+      <guid>//localhost:1313/publication/philipp2007/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In-situ xray diffraction of phase transformations in nanostructured reactive multilayer foils</title>
-      <link>//localhost:60442/publication/trenkle2006situ/</link>
+      <link>//localhost:1313/publication/trenkle2006situ/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/trenkle2006situ/</guid>
+      <guid>//localhost:1313/publication/trenkle2006situ/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantitative characterization of near-field fuel sprays by multi-orifice direct injection using ultrafast x-tomography technique</title>
-      <link>//localhost:60442/publication/liu2006quantitative/</link>
+      <link>//localhost:1313/publication/liu2006quantitative/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/liu2006quantitative/</guid>
+      <guid>//localhost:1313/publication/liu2006quantitative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Near-field characterization of direct injection gasoline sprays from multi-hole injector using ultrafast x-tomography</title>
-      <link>//localhost:60442/publication/liu2005near/</link>
+      <link>//localhost:1313/publication/liu2005near/</link>
       <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>//localhost:60442/publication/liu2005near/</guid>
+      <guid>//localhost:1313/publication/liu2005near/</guid>
       <description></description>
     </item>
     
