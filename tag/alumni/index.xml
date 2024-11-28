@@ -2,147 +2,147 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alumni | Electrical Instrumentation at UST</title>
-    <link>//localhost:1313/tag/alumni/</link>
-      <atom:link href="//localhost:1313/tag/alumni/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:61246/tag/alumni/</link>
+      <atom:link href="//localhost:61246/tag/alumni/index.xml" rel="self" type="application/rss+xml" />
     <description>Alumni</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:61246/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
       <title>Alumni</title>
-      <link>//localhost:1313/tag/alumni/</link>
+      <link>//localhost:61246/tag/alumni/</link>
     </image>
     
     <item>
       <title>Abraham Stroschein</title>
-      <link>//localhost:1313/people/abraham_stroschein/</link>
+      <link>//localhost:61246/people/abraham_stroschein/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/abraham_stroschein/</guid>
+      <guid>//localhost:61246/people/abraham_stroschein/</guid>
       <description>&lt;p&gt;Abe graduated summa cum laude from St. Thomas in Spring 2024 with dual majors in Computer Engineering and Physics.  In the research lab, Abe designed and developed Python code for the COVG amplifier project. Abe was a receipient of a UST Science, Mathematics, and Engineering scholarship and is a Python wizard. Abe is the lead author of a Journal of Open Source Software manuscript titled &amp;ldquo;Pyripherals: A Python Package for Communicating with Peripheral Electronic Devices&amp;rdquo;. As an undergraduate, he contributed to a total of 3 peer reviewed journal articles!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ian Delgadillo Bonequi</title>
-      <link>//localhost:1313/people/ian_delgadillo_bonequi/</link>
+      <link>//localhost:61246/people/ian_delgadillo_bonequi/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/ian_delgadillo_bonequi/</guid>
+      <guid>//localhost:61246/people/ian_delgadillo_bonequi/</guid>
       <description>&lt;p&gt;Ian graduated from St. Thomas summa cum laude with a degree in Electrical Engineering and a minor in Physics (Spring 2023). Ian is now an FPGA engineer at General Dynamics. In the lab, he developed Verilog code and advanced control systems design for the COVG amplifier project. He used MATLAB Simulink to create real-time fixed-point state space models that process ADC data to create outgoing data for the DACs. He also developed and tested modules that connect to a host computer using the Opal Kelly Front Panel interface, which allow the host computer to control analog to digital and digital to analog converters, through the use of an SPI interface and a Wishbone bus. As an undergraduate, Ian contributed to a total of 3 peer reviewed journal articles!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jordan Haag</title>
-      <link>//localhost:1313/people/jordan_haag/</link>
+      <link>//localhost:61246/people/jordan_haag/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/jordan_haag/</guid>
+      <guid>//localhost:61246/people/jordan_haag/</guid>
       <description>&lt;p&gt;Jordan is a UST electrical engineering major and Air Force ROTC student. He loves PCB design and test and has contributed two PCB designs to the COVG amplifier project. He is a recipient of an Air Force graduate program scholarship to continue his electrical engineering studies after UST.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Kordt Gammelgaard</title>
-      <link>//localhost:1313/people/kordt_gammelgaard/</link>
+      <link>//localhost:61246/people/kordt_gammelgaard/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/kordt_gammelgaard/</guid>
+      <guid>//localhost:61246/people/kordt_gammelgaard/</guid>
       <description>&lt;p&gt;Kordt Gammelgaard is a UST EE major with an interest in physics. In the summer of 2023, Kordt received a UROP Young scholars grant to explore material classification with time-of-flight sensors. He adeptly used his experimental and broad design skills to significantly improve our test setup.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Cienna Becker</title>
-      <link>//localhost:1313/people/cienna_becker/</link>
+      <link>//localhost:61246/people/cienna_becker/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/cienna_becker/</guid>
+      <guid>//localhost:61246/people/cienna_becker/</guid>
       <description>&lt;p&gt;Cienna is a student at St. Thomas undergraduate graduating in the Spring of 2024 with a degree in Computer Engineering and multiple minors! During the summer of 2022 she demonstrated successful classification of different types of plastics using a time-of-flight depth sensor (AMS TMF8801) funded by a UROP Young Scholars grant. In the process, she used TensorFlow to create classifiers that worked on input features of the raw histogram measurements as well as optical parameters of the materials as extracted from the return time histograms. Cienna is active in St. Thomas band and is a ECE department course tutor.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jakob Porter</title>
-      <link>//localhost:1313/people/jake_porter/</link>
+      <link>//localhost:61246/people/jake_porter/</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/jake_porter/</guid>
+      <guid>//localhost:61246/people/jake_porter/</guid>
       <description>&lt;p&gt;Jake Porter is a senior undergraduate student majoring in Electrical Engineering. He contributed to the analog and PCB design aspects of the NIH COVG project. He is diving into switch mode DC/DC converters and analog feedback loops, while also learning KiCAD. In 2021 Jake was an MIAC All-Conference outfielder for the St. Thomas baseball team!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Corissa Uberecken</title>
-      <link>//localhost:1313/people/corrisa_uberecken/</link>
+      <link>//localhost:61246/people/corrisa_uberecken/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/corrisa_uberecken/</guid>
+      <guid>//localhost:61246/people/corrisa_uberecken/</guid>
       <description>&lt;p&gt;Corissa is a fourth-year student majoring in Computer Engineering (graduating Spring 2024) who completed a term studying abroad in Australia. In the research lab during the summer of 2021 she became the group expert on the Texas Instruments ADS8686 ADC and brought up a development board using the part.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Lexi Serreyn</title>
-      <link>//localhost:1313/people/lexi_serreyn/</link>
+      <link>//localhost:61246/people/lexi_serreyn/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/lexi_serreyn/</guid>
+      <guid>//localhost:61246/people/lexi_serreyn/</guid>
       <description>&lt;p&gt;Lexi graduated in the Spring of 2022 with Electrical Engineering and Physics double majors at moved on to an R&amp;amp;D position at Medtronic. At UST she performed research at the intersection of Optics and Electrical Engineering, specifically medical imaging solutions. In the research lab she crafted a new slope calculation algorithm to account for various noise types in photodiode readings in a point of care imaging device.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Nathan LoPresto</title>
-      <link>//localhost:1313/people/nathan_lopresto/</link>
+      <link>//localhost:61246/people/nathan_lopresto/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/nathan_lopresto/</guid>
+      <guid>//localhost:61246/people/nathan_lopresto/</guid>
       <description>&lt;p&gt;Nathan is majoring in Computer Engineering and will graduate in the Spring of 2024. In the research lab he developed user facing Python code for viewing ADC waveforms and interacting with the COVG DAQ system. He also was a hands-on teaching assistant for the Introduction to Electrical and Computer Engineering course.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>William Schneider</title>
-      <link>//localhost:1313/people/william_schneider/</link>
+      <link>//localhost:61246/people/william_schneider/</link>
       <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/william_schneider/</guid>
+      <guid>//localhost:61246/people/william_schneider/</guid>
       <description>&lt;p&gt;Will, a mechanical engineering major (graduated Winter 2023) researched the electrical properties of conductive filaments for 3D printers. His primary interest is horology, but he also finds 3D printers, RC systems, and high powered rockets interesting. He codes well (even in C++)!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Matthew Schewe</title>
-      <link>//localhost:1313/people/matthew_schewe/</link>
+      <link>//localhost:61246/people/matthew_schewe/</link>
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/matthew_schewe/</guid>
+      <guid>//localhost:61246/people/matthew_schewe/</guid>
       <description>&lt;p&gt;Matthew was a UST Electrical Engineering Major who graduated in the Spring of 2020. He worked on electronics for a new ion-channel amplifier. He is a multisim expert and finished an entire PCB design cycle in the summer of 2019.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mohamed Abdalla</title>
-      <link>//localhost:1313/people/mohamed_abdalla/</link>
+      <link>//localhost:61246/people/mohamed_abdalla/</link>
       <pubDate>Wed, 09 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/mohamed_abdalla/</guid>
+      <guid>//localhost:61246/people/mohamed_abdalla/</guid>
       <description>&lt;p&gt;Mohamed is a UST Master&amp;rsquo;s student in the graduate programs in software. He is working on an independent study project to develop inexpensive methods to calibrate and evaluate accelerometers and gyroscopes (IMUs).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ryan Jans</title>
-      <link>//localhost:1313/people/ryan_jans/</link>
+      <link>//localhost:61246/people/ryan_jans/</link>
       <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/ryan_jans/</guid>
+      <guid>//localhost:61246/people/ryan_jans/</guid>
       <description>&lt;p&gt;Ryan graduated from UST with an Electrical Engineering Major in the spring of 2020. He did excellent work on optical time-of-flight depth sensors and was the first undergraduate to be the first author on a reviewed journal paper in our lab &lt;a href=&#34;https://ieeexplore.ieee.org/abstract/document/8982043&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Characterization of a Miniaturized IR Depth Sensor With a Programmable Region-of-Interest That Enables Hazard Mapping Applications&lt;/a&gt;. He also worked on an industry linked RF communications project. Ryan is now a graduate student at the Air Force Institute of Technology in Ohio.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Phillip Kuplic</title>
-      <link>//localhost:1313/people/phillip_kuplic/</link>
+      <link>//localhost:61246/people/phillip_kuplic/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/phillip_kuplic/</guid>
+      <guid>//localhost:61246/people/phillip_kuplic/</guid>
       <description>&lt;p&gt;Phil is a UST Mechanical Engineering Major who graduated in the Spring of 2020. He constructed an apparatus for characterizing LED illumination systems for microscope and spectrophotometer applications. He presented his work on LED characterization at the APS March meeting in Boston in 2019.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Savannah Johnson</title>
-      <link>//localhost:1313/people/savannah_johnson/</link>
+      <link>//localhost:61246/people/savannah_johnson/</link>
       <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/savannah_johnson/</guid>
+      <guid>//localhost:61246/people/savannah_johnson/</guid>
       <description>&lt;p&gt;Savannah graduated in the Spring of 2020 with a major in Mechanical Engineering and minors in Electrical Engineering and Aerospace Studies. Along the way she won &lt;a href=&#34;https://news.stthomas.edu/rotc-cadet-savannah-johnson-receives-three-national-awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3 national awards as a ROTC cadet&lt;/a&gt;
 She is curious about the real-world applications of physics and mathematics. Electronics, control systems, automation, and transportation systems spark her interest.&lt;/p&gt;
 </description>
@@ -150,18 +150,18 @@ She is curious about the real-world applications of physics and mathematics. Ele
     
     <item>
       <title>Lucas Manke</title>
-      <link>//localhost:1313/people/lucas_manke/</link>
+      <link>//localhost:61246/people/lucas_manke/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/lucas_manke/</guid>
+      <guid>//localhost:61246/people/lucas_manke/</guid>
       <description>&lt;p&gt;Lucas graduated in the Spring of 2020 and was a senior majoring in Mechanical Engineering and pursuing minors in Business Administration and Military Science.  He was a member of the varsity swim team at UST and a cadet in Army ROTC at the University of Minnesota.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Xiaokang Li</title>
-      <link>//localhost:1313/people/xiaokang_li/</link>
+      <link>//localhost:61246/people/xiaokang_li/</link>
       <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/people/xiaokang_li/</guid>
+      <guid>//localhost:61246/people/xiaokang_li/</guid>
       <description>&lt;p&gt;Xiaokang completed an electrical engineering Master&amp;rsquo;s degree at the University of St. Thomas.&lt;/p&gt;
 </description>
     </item>
