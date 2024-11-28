@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Electrical Instrumentation at UST</title>
-    <link>//localhost:1313/tags/</link>
-      <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:60442/tags/</link>
+      <atom:link href="//localhost:60442/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:60442/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
       <title>Tags</title>
-      <link>//localhost:1313/tags/</link>
+      <link>//localhost:60442/tags/</link>
     </image>
     
   </channel>

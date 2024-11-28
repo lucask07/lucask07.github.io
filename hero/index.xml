@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Heroes | Electrical Instrumentation at UST</title>
-    <link>//localhost:1313/hero/</link>
-      <atom:link href="//localhost:1313/hero/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:60442/hero/</link>
+      <atom:link href="//localhost:60442/hero/index.xml" rel="self" type="application/rss+xml" />
     <description>Heroes</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>//localhost:1313/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:60442/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
       <title>Heroes</title>
-      <link>//localhost:1313/hero/</link>
+      <link>//localhost:60442/hero/</link>
     </image>
     
     <item>
       <title>Electrical Instrumentation at UST</title>
-      <link>//localhost:1313/hero/hero/</link>
+      <link>//localhost:60442/hero/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/hero/hero/</guid>
+      <guid>//localhost:60442/hero/hero/</guid>
       <description>&lt;p&gt;A research group that develops electrical instrumentation for challenges in detection within the Electrical Engineering department at the University of St. Thomas.
 &lt;br&gt;&lt;/p&gt;
 </description>
