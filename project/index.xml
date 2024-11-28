@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Electrical Instrumentation at UST</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/project/</link>
+      <atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>//localhost:1313/project/</link>
     </image>
     
     <item>
       <title>A Digital and Open-Source Amplifier for Oocyte Ion Channel Measurements</title>
-      <link>/project/covg/</link>
+      <link>//localhost:1313/project/covg/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/project/covg/</guid>
+      <guid>//localhost:1313/project/covg/</guid>
       <description>&lt;p&gt;Ion channels and transporters are critical components of the nervous system, and their electrophysiological characterization plays an essential part in understanding many neurological diseases. Voltage clamp techniques characterize ion channel electrical behavior by controlling membrane voltage while measuring membrane current. Cut-Open Vaseline Gap (COVG) is a specific voltage clamp technique that provides a unique combination of high-speed/low-noise needed to resolve fast protein dynamics and the rare ability to control both intra- and extra- cellular solutions. However, the COVG technique is regarded as challenging in part because the only commercial ampliﬁer is manually operated and requires considerable experience and skill. Further, this commercial amplifier is no longer supported. The COVG user community needs an easy-to-use, high-performance replacement that also makes the technique accessible to more laboratories. In this proposal, we will design, build, and test a new COVG amplifier that leverages modern digital electronics. This digital amplifier will use an innovative approach to automate experiment setup and to continuously adapt setup parameters during the experiment. These approaches will decrease the time required for experiments and maintain optimal feedback as system parameters evolve. The amplifier will have multiple inputs and outputs that are controlled and read digitally. These multiple signals will be used in digital signal processing and control systems algorithms to improve the speed of the ion channel voltage control and allow the experimenter to resolve faster dynamics. The modular ampliﬁer design will create general-use circuit building blocks with digital control systems for feed- back. These components can be leveraged by the electrophysiology community to extend this development to applications beyond COVG. This project will challenge students with instrumentation development that uses and develops skills in:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Circuit design and simulations&lt;/li&gt;
@@ -31,27 +31,27 @@
     
     <item>
       <title>Applications of Miniaturized Time-of-Flight Depth Sensors</title>
-      <link>/project/tof/</link>
+      <link>//localhost:1313/project/tof/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/project/tof/</guid>
+      <guid>//localhost:1313/project/tof/</guid>
       <description>&lt;p&gt;Optical time-of-flight (ToF) depth sensors are emerging in consumer electronics and offer powerful opportunities to advance scientific research if adapted to measurement challenges in timing photons. Direct ToF (dToF) sensors pulse a laser and time the light return (with picosecond resolution!) to measure the distance to an object. To what non-conventional scientific measurements could these sensors be applied?&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Broadening undergraduate exposure to microelectronics</title>
-      <link>/project/undergraduate_microelectronics/</link>
+      <link>//localhost:1313/project/undergraduate_microelectronics/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/project/undergraduate_microelectronics/</guid>
+      <guid>//localhost:1313/project/undergraduate_microelectronics/</guid>
       <description>&lt;p&gt;The undergraduate curriculum only scratches the surface of microelectronics. In the research lab, we are filling this gap by exposing students to CMOS integrated circuits through applications and testing. When students use integrated circuits for measurements, we develop an understanding of the circuit architecture and the performance specifications that the design may have. We are also seeking collaborations with research groups that design and fabricate custom integrated circuits (particularly for sensing). Our group contributes by developing unique applications or through circuit tests. Partially supported by SCALE.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Conductive 3D printing</title>
-      <link>/project/conductive_3d_printing/</link>
+      <link>//localhost:1313/project/conductive_3d_printing/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/project/conductive_3d_printing/</guid>
+      <guid>//localhost:1313/project/conductive_3d_printing/</guid>
       <description>&lt;p&gt;The bulk electrical resistance of 3D parts printed using conductive filament has a complex dependence on the printing parameters, filament properties, and sample design. We are working to characterize the resistance of fundamental building blocks and develop software tools to predict bulk electrical properties from the CAD design. Ultimately, electrically conductive 3D printed parts with electrical properties that can be predicted during design will benefit the field of flexible sensors.&lt;/p&gt;
 </description>
     </item>

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Undergraduate | Electrical Instrumentation at UST</title>
-    <link>/tag/undergraduate/</link>
-      <atom:link href="/tag/undergraduate/index.xml" rel="self" type="application/rss+xml" />
+    <link>//localhost:1313/tag/undergraduate/</link>
+      <atom:link href="//localhost:1313/tag/undergraduate/index.xml" rel="self" type="application/rss+xml" />
     <description>Undergraduate</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
+      <url>//localhost:1313/images/icon_hub67c49e2d9e3d1fe433c419f415a9895_280832_512x512_fill_lanczos_center_3.png</url>
       <title>Undergraduate</title>
-      <link>/tag/undergraduate/</link>
+      <link>//localhost:1313/tag/undergraduate/</link>
     </image>
     
     <item>
       <title>Seth Lindgren</title>
-      <link>/people/seth_lindgren/</link>
+      <link>//localhost:1313/people/seth_lindgren/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/people/seth_lindgren/</guid>
+      <guid>//localhost:1313/people/seth_lindgren/</guid>
       <description>&lt;p&gt;Seth is a St. Thomas Electrical Engineering student with an interest in physics. In the research lab, he has developed a new time-of-flight experimental system which we are using to explore unconventional applications of timing light. In the summer of 2024, Seth was supported by an Undergraduate Research Opportunities Program young scholar&amp;rsquo;s grant.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Thomas Gagnon</title>
-      <link>/people/thomas_gagnon/</link>
+      <link>//localhost:1313/people/thomas_gagnon/</link>
       <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/people/thomas_gagnon/</guid>
+      <guid>//localhost:1313/people/thomas_gagnon/</guid>
       <description>&lt;p&gt;Thomas is a St. Thomas Computer Engineering student who is pursuing a double major in physics. In the research lab, he has been implementing image processing algorithms onto Opal Kelly FPGAs.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Jonathan Millam</title>
-      <link>/people/jonathan_millam/</link>
+      <link>//localhost:1313/people/jonathan_millam/</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>/people/jonathan_millam/</guid>
+      <guid>//localhost:1313/people/jonathan_millam/</guid>
       <description>&lt;p&gt;Jon is a St. Thomas Computer Engineering student. In the research lab, Jon has investigated material classfication using time-of-flight transients. Jon loves to code and is the lab PyTorch machine learning expert.&lt;/p&gt;
 </description>
     </item>
