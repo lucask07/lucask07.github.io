@@ -2,256 +2,256 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:61246/hero/hero/</loc>
+    <loc>/hero/hero/</loc>
     <lastmod>2017-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication-type/2/</loc>
+    <loc>/publication-type/2/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/project/covg/</loc>
+    <loc>/project/covg/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/abraham_stroschein/</loc>
+    <loc>/people/abraham_stroschein/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/tag/alumni/</loc>
+    <loc>/tag/alumni/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/project/tof/</loc>
+    <loc>/project/tof/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/project/undergraduate_microelectronics/</loc>
+    <loc>/project/undergraduate_microelectronics/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/koerner_2024/</loc>
+    <loc>/publication/koerner_2024/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/</loc>
+    <loc>/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/koerner_2024b/</loc>
+    <loc>/publication/koerner_2024b/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/tag/research/</loc>
+    <loc>/tag/research/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/seth_lindgren/</loc>
+    <loc>/people/seth_lindgren/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/</loc>
+    <loc>/people/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/thomas_gagnon/</loc>
+    <loc>/people/thomas_gagnon/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/tag/undergraduate/</loc>
+    <loc>/tag/undergraduate/</loc>
     <lastmod>2024-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/becker_2023/</loc>
+    <loc>/publication/becker_2023/</loc>
     <lastmod>2023-03-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/ian_delgadillo_bonequi/</loc>
+    <loc>/people/ian_delgadillo_bonequi/</loc>
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/jonathan_millam/</loc>
+    <loc>/people/jonathan_millam/</loc>
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/jordan_haag/</loc>
+    <loc>/people/jordan_haag/</loc>
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/kordt_gammelgaard/</loc>
+    <loc>/people/kordt_gammelgaard/</loc>
     <lastmod>2023-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/cienna_becker/</loc>
+    <loc>/people/cienna_becker/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/bonequi_2022/</loc>
+    <loc>/publication/bonequi_2022/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/stroschein_2022/</loc>
+    <loc>/publication/stroschein_2022/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/jake_porter/</loc>
+    <loc>/people/jake_porter/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/corrisa_uberecken/</loc>
+    <loc>/people/corrisa_uberecken/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/lexi_serreyn/</loc>
+    <loc>/people/lexi_serreyn/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/nathan_lopresto/</loc>
+    <loc>/people/nathan_lopresto/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/william_schneider/</loc>
+    <loc>/people/william_schneider/</loc>
     <lastmod>2021-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/project/conductive_3d_printing/</loc>
+    <loc>/project/conductive_3d_printing/</loc>
     <lastmod>2021-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/koerner2021/</loc>
+    <loc>/publication/koerner2021/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/tag/academic/</loc>
+    <loc>/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/category/demo/</loc>
+    <loc>/category/demo/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/post/getting-started/</loc>
+    <loc>/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/tag/%E5%BC%80%E6%BA%90/</loc>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/category/%E6%95%99%E7%A8%8B/</loc>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication-type/1/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/secord_2020/</loc>
+    <loc>/publication/secord_2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/jans_2020/</loc>
+    <loc>/publication/jans_2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/truman_2020/</loc>
+    <loc>/publication/truman_2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/matthew_schewe/</loc>
+    <loc>/people/matthew_schewe/</loc>
     <lastmod>2019-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/mohamed_abdalla/</loc>
+    <loc>/people/mohamed_abdalla/</loc>
     <lastmod>2019-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/ryan_jans/</loc>
+    <loc>/people/ryan_jans/</loc>
     <lastmod>2019-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/koerner_2019b/</loc>
+    <loc>/publication/koerner_2019b/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/koerner_2019c/</loc>
+    <loc>/publication/koerner_2019c/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/kuplic_2019/</loc>
+    <loc>/publication/kuplic_2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/truman_2019/</loc>
+    <loc>/publication/truman_2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/koerner_2019/</loc>
+    <loc>/publication/koerner_2019/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/phillip_kuplic/</loc>
+    <loc>/people/phillip_kuplic/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/savannah_johnson/</loc>
+    <loc>/people/savannah_johnson/</loc>
     <lastmod>2018-07-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/koerner_2018b/</loc>
+    <loc>/publication/koerner_2018b/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/whitwam_2018/</loc>
+    <loc>/publication/whitwam_2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/koerner_2018/</loc>
+    <loc>/publication/koerner_2018/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/lucas_manke/</loc>
+    <loc>/people/lucas_manke/</loc>
     <lastmod>2017-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/people/xiaokang_li/</loc>
+    <loc>/people/xiaokang_li/</loc>
     <lastmod>2017-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/hero/</loc>
+    <loc>/hero/</loc>
     <lastmod>2017-10-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/koerner_2017/</loc>
+    <loc>/publication/koerner_2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/boutet2012high/</loc>
+    <loc>/publication/boutet2012high/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/meshot2012high/</loc>
+    <loc>/publication/meshot2012high/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/kelly2011fast/</loc>
+    <loc>/publication/kelly2011fast/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/philipp2011pixel/</loc>
+    <loc>/publication/philipp2011pixel/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/koerner2011small/</loc>
+    <loc>/publication/koerner2011small/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/koerner2011x/</loc>
+    <loc>/publication/koerner2011x/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/philipp2010femtosecond/</loc>
+    <loc>/publication/philipp2010femtosecond/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/trenkle2010time/</loc>
+    <loc>/publication/trenkle2010time/</loc>
     <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/rodricks2009quantum/</loc>
+    <loc>/publication/rodricks2009quantum/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/koerner2009accumulating/</loc>
+    <loc>/publication/koerner2009accumulating/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/koerner2009x/</loc>
+    <loc>/publication/koerner2009x/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/trenkle2008phase/</loc>
+    <loc>/publication/trenkle2008phase/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/hromalik2007data/</loc>
+    <loc>/publication/hromalik2007data/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/vernon2007first/</loc>
+    <loc>/publication/vernon2007first/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/philipp2007pixel/</loc>
+    <loc>/publication/philipp2007pixel/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/philipp2007/</loc>
+    <loc>/publication/philipp2007/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/liu20072006/</loc>
+    <loc>/publication/liu20072006/</loc>
     <lastmod>2007-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/trenkle2006situ/</loc>
+    <loc>/publication/trenkle2006situ/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/liu2006quantitative/</loc>
+    <loc>/publication/liu2006quantitative/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:61246/publication/liu2005near/</loc>
+    <loc>/publication/liu2005near/</loc>
     <lastmod>2005-01-01T00:00:00+00:00</lastmod>
   </url>
 </urlset>
